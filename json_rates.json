@@ -1,0 +1,82 @@
+[
+    {
+        "currency": "Bitcoin",
+        "symbol": "btc",
+        "current_price_in_usd": 109236,
+        "market_capitalization_in_usd": 2176615256054,
+        "highest_price_within_24_hours_in_usd": 110311,
+        "lowest_price_within_24_hours_in_usd": 108776
+    },
+    {
+        "currency": "Ethereum",
+        "symbol": "eth",
+        "current_price_in_usd": 4012.04,
+        "market_capitalization_in_usd": 484268355105,
+        "highest_price_within_24_hours_in_usd": 4062.09,
+        "lowest_price_within_24_hours_in_usd": 3863.06
+    },
+    {
+        "currency": "Tether",
+        "symbol": "usdt",
+        "current_price_in_usd": 1.001,
+        "market_capitalization_in_usd": 173543354360,
+        "highest_price_within_24_hours_in_usd": 1.001,
+        "lowest_price_within_24_hours_in_usd": 1.0
+    },
+    {
+        "currency": "XRP",
+        "symbol": "xrp",
+        "current_price_in_usd": 2.78,
+        "market_capitalization_in_usd": 166379248028,
+        "highest_price_within_24_hours_in_usd": 2.81,
+        "lowest_price_within_24_hours_in_usd": 2.7
+    },
+    {
+        "currency": "BNB",
+        "symbol": "bnb",
+        "current_price_in_usd": 953.29,
+        "market_capitalization_in_usd": 132587942087,
+        "highest_price_within_24_hours_in_usd": 964.56,
+        "lowest_price_within_24_hours_in_usd": 933.68
+    },
+    {
+        "currency": "Solana",
+        "symbol": "sol",
+        "current_price_in_usd": 199.91,
+        "market_capitalization_in_usd": 108659527040,
+        "highest_price_within_24_hours_in_usd": 202.43,
+        "lowest_price_within_24_hours_in_usd": 191.28
+    },
+    {
+        "currency": "USDC",
+        "symbol": "usdc",
+        "current_price_in_usd": 0.999617,
+        "market_capitalization_in_usd": 73741191407,
+        "highest_price_within_24_hours_in_usd": 0.999804,
+        "lowest_price_within_24_hours_in_usd": 0.999594
+    },
+    {
+        "currency": "Lido Staked Ether",
+        "symbol": "steth",
+        "current_price_in_usd": 4010.56,
+        "market_capitalization_in_usd": 34849776945,
+        "highest_price_within_24_hours_in_usd": 4061.81,
+        "lowest_price_within_24_hours_in_usd": 3860.81
+    },
+    {
+        "currency": "Dogecoin",
+        "symbol": "doge",
+        "current_price_in_usd": 0.230485,
+        "market_capitalization_in_usd": 34822647563,
+        "highest_price_within_24_hours_in_usd": 0.233064,
+        "lowest_price_within_24_hours_in_usd": 0.222029
+    },
+    {
+        "currency": "TRON",
+        "symbol": "trx",
+        "current_price_in_usd": 0.336732,
+        "market_capitalization_in_usd": 31880049604,
+        "highest_price_within_24_hours_in_usd": 0.337005,
+        "lowest_price_within_24_hours_in_usd": 0.331808
+    }
+]

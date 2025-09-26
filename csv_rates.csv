@@ -1,0 +1,11 @@
+currency,symbol,current_price_in_usd,market_capitalization_in_usd,highest_price_within_24_hours_in_usd,lowest_price_within_24_hours_in_usd
+Bitcoin,btc,109236,2176615256054,110311,108776
+Ethereum,eth,4012.04,484268355105,4062.09,3863.06
+Tether,usdt,1.001,173543354360,1.001,1.0
+XRP,xrp,2.78,166379248028,2.81,2.7
+BNB,bnb,953.29,132587942087,964.56,933.68
+Solana,sol,199.91,108659527040,202.43,191.28
+USDC,usdc,0.999617,73741191407,0.999804,0.999594
+Lido Staked Ether,steth,4010.56,34849776945,4061.81,3860.81
+Dogecoin,doge,0.230485,34822647563,0.233064,0.222029
+TRON,trx,0.336732,31880049604,0.337005,0.331808
